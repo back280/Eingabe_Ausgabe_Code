@@ -1,9 +1,0 @@
-{
-    "type": "sftp",
-    "host": "papi.local",
-    "username": "pi",
-    "password": "raspberry",
-    "port": 22,
-    "remotePath": "/home/pi/fhp",
-    "uploadOnSave": true
-}
